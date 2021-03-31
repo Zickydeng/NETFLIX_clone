@@ -8,7 +8,7 @@ A Netflix clone built using React. It fetches the data from TMDB (The Movie Data
 
 ### Author;
 
-Zicky/Elijah
+####Zicky/Elijah
 
 
 ## Getting Started with Create React App
