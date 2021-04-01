@@ -6,8 +6,7 @@ A Netflix clone built using React. It fetches the data from TMDB (The Movie Data
 ![Zicky's Netflix Clone](netflix-clone.png?raw=true "Zicky's Netflix Clone")
 
 
-### Author;
-
+### Author.
 #### Zicky/Elijah
 
 
