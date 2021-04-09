@@ -1,5 +1,5 @@
 # NETFLIX-Clone App
-### Demo https://netflix-clone-c2e76.web.app/
+### [Live Demo](https://netflix-clone-c2e76.web.app/)
 
 A Netflix clone built using React. It fetches the data from TMDB (The Movie Database) API. It also displays the movie trailers which are mostly fetched from Youtube and stop when you click the avatar. It is a resposive design and has a genrally clean look that resembles original netflix.
 
